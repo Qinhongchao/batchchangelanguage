@@ -27,7 +27,7 @@
     "name": "renboen"
   },
   "bin": {
-    "element-form": "bin/index.js"
+    "batchlang": "bin/index.js"
   },
   "bundleDependencies": false,
   "dependencies": {
@@ -35,6 +35,7 @@
     "camel-to-kebab": "^1.1.0",
     "ejs": "^2.6.1",
     "js-stringify": "^1.0.2",
+    "minimatch": "^3.0.4",
     "string-to-stream": "^1.1.1"
   },
   "deprecated": false,
